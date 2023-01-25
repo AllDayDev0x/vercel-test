@@ -1,4 +1,5 @@
 {
     "version": 2,
-    "routes": [{ "src": "(.*)", "dest": "app.js" }]
+    "routes": [{ "src": "(.*)", "dest": "app.js" }],
+    "rewrites":[{"source":"/(.*)", "destination":"/"}]
   }
