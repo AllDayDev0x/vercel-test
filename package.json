@@ -4,7 +4,7 @@
   "description": "conduit on node",
   "main": "app.js",
   "scripts": {
-  
+  "build":"npm install"
   },
   "repository": {
     "type": "git",
